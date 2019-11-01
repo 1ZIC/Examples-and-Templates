@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571853495 source:d:\codeblocks programs\how to read from a .txt file\main.cpp
+	<iostream>
+	<fstream>
+
