@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570664613 source:d:\codeblocks programs\arrow member\books.cpp
+	"Books.h"
+
+1570664653 d:\codeblocks programs\arrow member\books.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570644090 source:d:\codeblocks programs\placing classes\main.cpp
+	<iostream>
+	<string>
+	"books.h"
+
+1570644760 d:\codeblocks programs\placing classes\books.h
+	<iostream>
+	<string>
+
